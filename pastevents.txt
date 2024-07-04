@@ -1,0 +1,15 @@
+warp -
+iMan sleep
+iMan wait
+iMan sleep
+exit
+iMan sleep
+exit
+iMan sleep
+exit
+iMan sleep
+iMan wait
+iMan sleep
+iMan suck
+warp ..
+warp -
