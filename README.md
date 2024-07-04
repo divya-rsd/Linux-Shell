@@ -148,7 +148,7 @@ Virtual Memory
 Executable path of process
 
 ```sh
-procolore <pid>
+proclore <pid>
 ```
 
 Process states :
