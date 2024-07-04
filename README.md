@@ -3,6 +3,7 @@
 ## Linux Shell
 
 A custom command-line interpreter built entirely in C, emulating the functionality of Bash.
+<br>
 
 ## Instructions to Run
 To compile and run the code:
@@ -10,8 +11,8 @@ To compile and run the code:
 make
 ./a.out
 ```
+<br>
 
-&nbsp;
 ### Features
 
 #### 1. Command Prompt
@@ -67,6 +68,8 @@ Seamlessly integrate I/O redirection with pipe operations.
 ```sh
 cat < a.txt | wc | sed 's/ //g' | cat > b.txt
 ```
+
+<br>
 
 ### Commands 
 
@@ -238,7 +241,7 @@ Changes the state of a stopped background process to running (in the background)
 
 The shell can execute the other system commands present in Bash  like emacs, gedit etc. This is possible in both foreground and background processes.
 
-
+<br>
 
 ### Signal Handling
 
@@ -265,6 +268,7 @@ Log the user out of the shell(after killing all processes), without having any e
 
 Pushes any currently running foreground process into the background and changes its state from “Running” to “Stopped” by sending the **SIGTSTP**. It has no effect on the shell if there is no foreground process running.
 
+<br>
 
 ### Processes
 
@@ -297,6 +301,7 @@ or
 
 Multiple background processes cn be executed.
 
+<br>
 
 ### Networking 
 
@@ -309,6 +314,7 @@ iMan <command_name>
 
 Prints an error statement if the page does not exist.
 
+<br>
 
 
 ### Tokenization priority order
