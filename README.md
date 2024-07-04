@@ -1,7 +1,14 @@
-# Description
+## Operating Systems and Networks
+
+## Builiding a Shell
+
+
+
+### Description
+
 First tokenized with respect to ; then & later with pipes followed by i/o redirections.
 
-# Assumptions
+### Assumptions
 
 1.While printing the full path of directory in specification 3,the absolute path of directory with respect to laptop is printed.
 2.In specification 4, the flag "-a-l" and "-l-a" is considered as invalid (no space between the flags).
